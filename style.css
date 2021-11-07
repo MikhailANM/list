@@ -1,0 +1,23 @@
+		li{
+			font-weight: bold;
+			
+		}
+		ul{
+			list-style: circle;
+		}
+		#first{
+			color:green;
+			font-size: 40px;
+		}
+		.important{
+			color: salmon;
+			list-style-type: square;
+			text-decoration: underline;
+		}
+		.finished{
+			color: silver;
+			text-decoration:line-through;
+		}/*		body{
+			background-image: url(https://i.artfile.ru/1920x1080_1248989_[www.ArtFile.ru].jpg);
+		}*/
+	
